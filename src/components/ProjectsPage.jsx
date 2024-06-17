@@ -18,7 +18,7 @@ const projects = [
       "A Food ordering App with diverse cuisines,easy checkout and efficient dish filtering.",
     image: "hungryhub.jpg",
     technologies: ["Tailwind CSS", "React", "Node.js", "Firebase"],
-    link: "https://your-public-url.com/food-ordering-app",
+    link: "https://foodorderingapp-fa064.web.app/",
   },
   {
     id: 3,
