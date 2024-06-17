@@ -1,0 +1,16 @@
+/* About.module.css */
+@keyframes bounceCustom {
+    0%, 100% {
+      transform: translateY(0);
+      filter: grayscale(100%);
+    }
+    50% {
+      transform: translateY(-20px);
+      filter: grayscale(0%);
+    }
+  }
+  
+  .bounceCustom {
+    animation: bounceCustom 2s infinite;
+  }
+  
