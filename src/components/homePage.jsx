@@ -38,7 +38,7 @@ export default function About() {
           </p>
           <div className="flex flex-row ">
           {/*Game Button*/}
-          <div className= "text-blue-400 text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
+          <div className= "text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
               <a
                 href="https://jaiyanth10.github.io/2048/"
                 target="_blank"
@@ -49,7 +49,7 @@ export default function About() {
               </div> 
           {/* Contact Me Button */}
          
-            <div className= "text-blue-400 text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
+            <div className= "text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
               <a
                 href="JAIYANTH LAKUMARAPU RESUME.pdf"
                 target="_blank"

@@ -3,7 +3,7 @@ import { FaLinkedin, FaInstagram, FaEnvelope, FaMapMarkerAlt, FaGithub } from 'r
 
 export default function ContactPage() {
     return (
-        <section id="section6" className="bg-gray-800 py-20">
+        <section id="section6" className="py-20">
             <div className="container mx-auto px-6 md:px-10 transition-transform transform hover:-translate-y-2">
                 <div className="bg-gray-700 p-8 rounded-lg shadow-lg text-center mx-auto md:w-2/3 lg:w-1/2">
                     <h3 className="text-2xl font-semibold text-white mb-6">JAIYANTH LAKUMARAPU</h3>

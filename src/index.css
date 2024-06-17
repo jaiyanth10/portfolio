@@ -7,18 +7,23 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #1f2937;
+  /* background-color: #1f2937; */
+   background-color: #24293E
 }
 
 html {
   scroll-behavior: smooth;
 }
 
-#section1, #section2, #section3, #section4, #section5, #section6 {
+#section1,
+#section2,
+#section3,
+#section4,
+#section5,
+#section6 {
   width: 90vw; /* 90% of the viewport width */
 }
 
 .transition-transform {
   transition: transform 0.3s ease-in-out;
 }
-
