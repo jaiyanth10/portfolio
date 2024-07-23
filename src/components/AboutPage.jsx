@@ -58,7 +58,7 @@ export default function About() {
                 Amaravati, Andhra Pradesh, India
               </p>
               <p className="text-sm sm:text-base mb-4">
-                <strong>Graduation:</strong> May-2022
+                <strong>Graduation:</strong> May 2022
               </p>
             </div>
           </div>
