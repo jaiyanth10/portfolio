@@ -25,10 +25,10 @@ export default function About() {
             Hi, I'm Jaiyanth Lakumarapu.
           </h3>
           <p className="text-base sm:text-lg leading-relaxed mb-4 text-justify">
-            A highly motivated Computer Science Master's graduate with a
-            passion for software development and technology solutions. My
-            expertise includes languages such as Java, Python, and JavaScript,
-            as well as experience with frameworks like React JS, Next JS and Node js.
+            A highly motivated Computer Science Master's graduate with a passion
+            for software development and technology solutions. My expertise
+            includes languages such as Java, Python, and JavaScript, as well as
+            experience with frameworks like React JS, Next JS and Node js.
           </p>
           <p className="text-base sm:text-lg leading-relaxed mb-4 text-justify">
             I thrive on solving complex challenges and am committed to
@@ -37,8 +37,8 @@ export default function About() {
             solutions.
           </p>
           <div className="flex flex-row ">
-          {/*Game Button*/}
-          <div className= "text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
+            {/*Game Button*/}
+            <div className="text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
               <a
                 href="https://jaiyanth10.github.io/2048/"
                 target="_blank"
@@ -46,21 +46,21 @@ export default function About() {
               >
                 Play a Game!
               </a>
-              </div> 
-          {/* Contact Me Button */}
-         
-            <div className= "text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
+            </div>
+            {/* Contact Me Button */}
+
+            <div className="text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
               <a
-                href="JAIYANTH LAKUMARAPU RESUME.pdf"
+                href="JAIYANTH LAKUMARAPU .pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 View Resume
               </a>
             </div>
-            </div>
           </div>
         </div>
+      </div>
     </section>
   );
 }
