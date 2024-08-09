@@ -24,19 +24,19 @@ export default function About() {
           <h3 className="text-2xl sm:text-3xl font-bold mb-4 pt-2">
             Hi, I'm Jaiyanth Lakumarapu.
           </h3>
-          <p className="text-base sm:text-lg leading-relaxed mb-4 text-justify">
+          <p className=" text-sm sm:text-lg leading-relaxed mb-4 text-justify">
             A highly motivated Computer Science Master's graduate with a passion
             for software development and technology solutions. My expertise
             includes languages such as Java, Python, and JavaScript, as well as
             experience with frameworks like React JS, Next JS and Node js.
           </p>
-          <p className="text-base sm:text-lg leading-relaxed mb-4 text-justify">
+          <p className="text-sm sm:text-lg leading-relaxed mb-4 text-justify">
             I thrive on solving complex challenges and am committed to
             continuous learning and professional growth. I'm excited to join a
             dynamic team where I can contribute my skills, ideas, and innovative
             solutions.
           </p>
-          <div className="flex flex-row ">
+          <div className="flex flex-row mt-7">
             {/*Game Button*/}
             <div className="text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
               <a
@@ -44,7 +44,7 @@ export default function About() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Play a Game!
+                Play a Game
               </a>
             </div>
             {/* Contact Me Button */}
