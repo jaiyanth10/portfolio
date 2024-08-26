@@ -51,7 +51,7 @@ export default function About() {
 
             <div className="text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
               <a
-                href="JAIYANTH LAKUMARAPU .pdf"
+                href="JAIYANTH LAKUMARAPU RESUME.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
