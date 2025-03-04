@@ -47,7 +47,7 @@ export default function About() {
                 Play a Game
               </a>
             </div>
-            {/* Contact Me Button */}
+            {/* Contact Me Button 
 
             <div className="text-[#8EBBFF] text-base md:text-md px-2 py-1 border border-blue-400 rounded hover:bg-gray-900 flex items-center mb-2 ml-3 cursor-pointer">
               <a
@@ -57,7 +57,7 @@ export default function About() {
               >
                 View Resume
               </a>
-            </div>
+            </div>*/}
           </div>
         </div>
       </div>
