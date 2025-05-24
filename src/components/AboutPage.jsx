@@ -37,9 +37,9 @@ export default function About() {
                 <br />
                 Fairfax, Virginia, USA
               </p>
-              <p className="text-sm sm:text-base mb-4">
+{/*               <p className="text-sm sm:text-base mb-4">
                 <strong>Graduation:</strong> May 2024
-              </p>
+              </p> */}
             </div>
           </div>
           <div className="flex flex-col items-center ">
@@ -57,9 +57,9 @@ export default function About() {
                 <br />
                 Amaravati, Andhra Pradesh, India
               </p>
-              <p className="text-sm sm:text-base mb-4">
+{/*               <p className="text-sm sm:text-base mb-4">
                 <strong>Graduation:</strong> May 2022
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
