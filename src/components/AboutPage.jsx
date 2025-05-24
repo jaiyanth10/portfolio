@@ -35,7 +35,7 @@ export default function About() {
               <p className="text-sm sm:text-base mb-2 ">
                 <strong>George Mason University</strong>
                 <br />
-                Fairfax, Virginia, USA
+                Virginia, USA
               </p>
 {/*               <p className="text-sm sm:text-base mb-4">
                 <strong>Graduation:</strong> May 2024
@@ -55,7 +55,7 @@ export default function About() {
               <p className="text-sm sm:text-base mb-2">
                 <strong>Vellore Institute of Technology</strong>
                 <br />
-                Amaravati, Andhra Pradesh, India
+                India
               </p>
 {/*               <p className="text-sm sm:text-base mb-4">
                 <strong>Graduation:</strong> May 2022
